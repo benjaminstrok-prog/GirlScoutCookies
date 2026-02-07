@@ -1,0 +1,2 @@
+# GirlScoutCookies
+CookieManager
